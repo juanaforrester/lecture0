@@ -2,14 +2,14 @@
 font-weight: bold;
 font-size: 28px:
 padding: 20px;
-background-color: green;
+background-color: lightgreen;
 }
 .warning {
 font-size: 18px:
 padding: 20px;
 background-color: yellow;
 }
-error {
+.error {
 font-weight: bold;
 font-size: 40px:
 padding: 20px;
