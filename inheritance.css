@@ -1,5 +1,6 @@
 .success {
-font-size: 18px:
+font-weight: bold;
+font-size: 28px:
 padding: 20px;
 background-color: green;
 }
@@ -9,7 +10,8 @@ padding: 20px;
 background-color: yellow;
 }
 error {
-font-size: 18px:
+font-weight: bold;
+font-size: 40px:
 padding: 20px;
 background-color: red;
 }
