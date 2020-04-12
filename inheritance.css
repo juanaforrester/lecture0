@@ -1,0 +1,15 @@
+.success {
+font-size: 18px:
+padding: 20px;
+background-color: green;
+}
+.warning {
+font-size: 18px:
+padding: 20px;
+background-color: yellow;
+}
+error {
+font-size: 18px:
+padding: 20px;
+background-color: red;
+}
